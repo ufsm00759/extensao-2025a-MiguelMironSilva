@@ -1,11 +1,12 @@
 # Repósitório da disciplina de Práticas Extensionistas na Educação em Comptuação.
-Docente: Andrea Schwertner Charão
-Discente: Miguel Miron Silva
+<p>Docente: Andrea Schwertner Charão</p>
+<p>Discente: Miguel Miron Silva</p>
 
 ## Experiências com práticas extensionistas
 
 ### Experiências pessoais
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Durante os anos de 2018 e 2019, fui um participante do grupo de Clube de Computação de UFSM, sobre a supervisão da professora Andrea Schwertner Charão. O gropo consistia em alunos de vários cursos, incluindo
+Ciência da Computação e Psicologia, cujo objetivo era trazer conhecimento de programação de computadores e lógica computacional para alunos do Ensino Médio e do Ensino Fundamental de colégios e escolas técnicas de Santa Maria. Para tal, eram usadas diversas ferramentas, como, por exemplo, a plataforma de lógica de computação Blockly, o app LightBot, e a organização de várias atividades e avaliações relacionadas à programação, de modo à introduzir e encorajar o desenvolvimento de conhecimento relacionado à programação e computação.</p>
 
 
 ### Experiências de interesse pessoal
